@@ -2,3 +2,4 @@
 
 .env
 .jwt_secret
+moviehub_dump.sql
